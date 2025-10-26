@@ -17,7 +17,6 @@ It includes:
 | **R3C** | Core compiler pipeline — C++ → Rust → NASM | [r3c-foundation/r3c](https://github.com/r3c-foundation/r3c) |
 | **Rust-LTSS** | Long-Term Sustain Support for Rust toolchain | [r3c-foundation/rust-ltss](https://github.com/r3c-foundation/rust-ltss) |
 | **Embedded-LTSS** | Industrial & embedded Rust-LTSS extensions | [r3c-foundation/rust-embedded-ltss](https://github.com/r3c-foundation/rust-embedded-ltss) |
-| **LLVM-Zero-Sector** | Research zone for Post-LLVM experiments | [r3c-foundation/llvm-zero-sector](https://github.com/r3c-foundation/llvm-zero-sector) |
 | **cpppm** | C++ Package & Project Manager integration | [r3c-foundation/cpppm](https://github.com/r3c-foundation/cpppm) |
 
 ---
