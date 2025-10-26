@@ -13,7 +13,8 @@
 | **R3C** | LLVM-free C++ → Rust → NASM transpiler | ✅ Stable Final v4 released |
 | **Rust-LTSS** | Long-Term Sustain Support for Rust core | 🧩 Active development |
 | **R3C-Foundation** | Governance, funding, manifesto setup | 🧱 In progress |
-| **Beyond-LLVM** | Research archive for post-LLVM methods | 🌐 Draft phase |
+| **LLVM-Zero-Sector** | Research layer for compiler sovereignty philosophy | 🌐 Early growth |
+| **Beyond-LLVM** | Conceptual archive for post-LLVM methodologies | ✍️ Drafting phase |
 
 ---
 
@@ -28,6 +29,7 @@
 | R3C | Self-hosted compilation stage begins |
 | Rust-Embedded-LTSS | Launch for industrial ARM / RISC-V targets |
 | cpppm | Integration as native C++ package manager |
+| LLVM-Zero-Sector | Publish “Zero Philosophy” whitepaper draft |
 | Rust-LTSS | Start full MRustC cross-integration test |
 
 ---
@@ -43,6 +45,7 @@
 |----------|--------|
 | R3C-Foundation | Legal registration process |
 | Rust-LTSS | Formal LTS registry + public audit logs |
+| LLVM-Zero-Sector | Academic collaboration channel open |
 | Beyond-LLVM | First whitepaper release (“Post-LLVM Architecture”) |
 
 ---
@@ -58,6 +61,7 @@
 | R3C | Cross-compiled targets verified |
 | Rust-LTSS | 10-year LTS branch established |
 | Embedded-LTSS | Production testbed deployed |
+| LLVM-Zero-Sector | Incorporated into governance as philosophy layer |
 
 ---
 
@@ -69,7 +73,8 @@ Move from *LLVM-Zero* → *Post-LLVM* → *Self-Evolving Compiler Stack.*
 |----------|--------|
 | R3C | Self-rebuilding bootstrap compiler |
 | Post-R3C | Research-grade hybrid C/Rust meta-compiler |
-| Beyond-LLVM | Open whitepapers + collaboration with academia |
+| Beyond-LLVM | Open whitepapers + academic collaboration |
+| LLVM-Zero-Sector | Historical documentation of independence |
 | Foundation | Sustainable neutral governance under global advisory board |
 
 ---
