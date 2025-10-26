@@ -1,36 +1,32 @@
-# 🧩 R3C Foundation
+# 🏛️ R3C Foundation — Governance & Charter Repository
 
-Welcome to **R3C Foundation** — the home of the Rust Independence Ecosystem.  
-We develop next-generation compiler and tooling stacks that move beyond LLVM dependency.
+This repository manages **governance, policy, and automation settings** for all projects under the **r3c-foundation** organization.
 
-## 🌍 Vision
-> “We are not escaping LLVM — we are transcending it.”
-
-Our mission is to evolve **C, C++ and Rust** into a self-hosting, transparent, and industrially stable toolchain ecosystem.
-
-## 🧱 Core Projects
-- **r3c** — C++ → Rust → NASM cross-compiler (LLVM-free)
-- **Rust-LTSS** — Rust Long-Term Sustain System
-- **LLVM-Zero-Ecosystem** — Beyond-LLVM research framework
-- **cpppm** — C++ Package Manager inspired by Cargo
-- **R3C-Nightly-LTSS** — Experimental releases and CI auto-builds
-
-## 🧠 Philosophy
-> “Transparency, sovereignty, and simplicity — the compiler must learn to breathe on its own.”
-
-## 🔗 Links
-- [R3C Main Repository](https://github.com/r3c-foundation/r3c)
-- [Rust-LTSS](https://github.com/r3c-foundation/rust-ltss)
-- [LLVM-Zero Ecosystem](https://github.com/r3c-foundation/llvm-zero-ecosystem)
+It includes:
+- 📜 Foundation Charter (`FOUNDATION_CHARTER.md`)
+- ⚖️ Governance & contribution templates (`.github/ISSUE_TEMPLATE/`, `CODE_OF_CONDUCT.md`)
+- 🛡️ Security policy (`SECURITY.md`)
+- 🧩 Organization-wide GitHub Actions & CI settings
 
 ---
 
-### ⚙️ Organization Stewardship
-R3C Foundation is open for collaboration, research partnerships, and stewardship offers from companies or foundations interested in long-term compiler sustainability.
+## 🌐 Ecosystem Overview
 
-📢 **Ownership Transfer Invitation**  
-> For inquiries, open an issue or discussion in the main repository.
+| Project | Description | Repository |
+|----------|--------------|-------------|
+| **R3C** | Core compiler pipeline — C++ → Rust → NASM | [r3c-foundation/r3c](https://github.com/r3c-foundation/r3c) |
+| **Rust-LTSS** | Long-Term Sustain Support for Rust toolchain | [r3c-foundation/rust-ltss](https://github.com/r3c-foundation/rust-ltss) |
+| **Embedded-LTSS** | Industrial & embedded Rust-LTSS extensions | [r3c-foundation/rust-embedded-ltss](https://github.com/r3c-foundation/rust-embedded-ltss) |
+| **LLVM-Zero-Sector** | Research zone for Post-LLVM experiments | [r3c-foundation/llvm-zero-sector](https://github.com/r3c-foundation/llvm-zero-sector) |
+| **cpppm** | C++ Package & Project Manager integration | [r3c-foundation/cpppm](https://github.com/r3c-foundation/cpppm) |
 
 ---
 
-🧩 *“The compiler must learn to breathe on its own.”*
+## 🧭 Purpose
+This `.github` repository serves as the **central policy and automation layer**.  
+All templates, workflows, and foundation-wide rules are managed here and automatically applied across the organization.
+
+---
+
+**License:** MIT  
+**Last Updated:** 2025-10-26
