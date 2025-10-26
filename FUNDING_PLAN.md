@@ -1,57 +1,107 @@
-# 💰 R3C Foundation Funding & Sustainability Plan
+# 💰 R3C Foundation — Funding & Sustainability Plan
 
-## Purpose
-Ensure R3C Foundation remains open, independent, and financially sustainable without corporate capture.
-
----
-
-## 1. Current Phase (2025–2026)
-**Status:** Pre-foundation, education-phase stewardship.  
-Funding Source: Personal time + open contributions.  
-Main focus:
-- Codebase automation and stability  
-- Documentation expansion  
-- Building community engagement  
+## 🧭 Purpose
+Ensure the long-term sustainability of the **R3C Ecosystem** (C++ → Rust → NASM)  
+by establishing a transparent, community-driven funding model.
 
 ---
 
-## 2. Transition Phase (2027–2028)
-**Goal:** Formalize the foundation and attract public + institutional support.
+## 🏗 Structure
 
-Planned actions:
-- Establish a non-profit registration (Korea-based or global open-tech jurisdiction)
-- Open donation channels (GitHub Sponsors, OpenCollective)
-- Introduce “Industrial LTSS Tier” — paid support for companies needing long-term compiler stability
-- Collaboration proposals with universities and embedded labs
-
----
-
-## 3. Long-Term Phase (Post-2029)
-**Goal:** Fully autonomous compiler foundation.  
-
-Funding model:
-| Source | Description |
-|---------|-------------|
-| Industrial LTSS contracts | Long-term compiler support for embedded + industrial clients |
-| Educational partnerships | Open curriculum with universities and research institutes |
-| Research grants | Compiler sovereignty, post-LLVM innovation, sustainable Rust pipelines |
-| Community donations | Sponsors supporting independence mission |
+| Tier | Type | Description | Allocation |
+|------|------|--------------|-------------|
+| **Core** | Foundation Reserve | Maintenance for core projects (r3c, rust-ltss, llvm-zero, cpppm) | 40% |
+| **Developers** | Contributor Grants | Monthly grants for active maintainers / issue solvers | 25% |
+| **Infrastructure** | Build & CI/CD Operations | GitHub Actions, server caching, nightly builds | 20% |
+| **Education** | Documentation & Outreach | Learning materials, foundation workshops | 15% |
 
 ---
 
-## 4. Usage of Funds
-- **70%** — Development, maintenance, automation, security review  
-- **20%** — Education, documentation, and open seminars  
-- **10%** — Administrative costs (legal, hosting, certification)
+## 💵 Funding Channels
+
+| Platform | Status | Description |
+|-----------|---------|--------------|
+| [GitHub Sponsors](https://github.com/sponsors) | 🟢 Planned | Direct monthly sponsorship from developers |
+| [OpenCollective](https://opencollective.com) | 🟢 Planned | Transparent ledger for foundation operations |
+| Corporate Partnership | 🟡 Pending | Google, Microsoft, or academic collaborations |
+| Foundation Grants | 🟡 In Review | Future application to non-profit tech grant programs |
 
 ---
 
-## 5. Commitment
-R3C Foundation commits that:
-- All funds remain transparent (public ledgers or GitHub-based logs)
-- No individual profit distribution  
-- All research and outputs remain MIT licensed  
+## 🔁 Automatic Distribution (Proposed)
+
+- **Weekly auto-commit activity check**
+- **Top 3 active contributors → weighted grant**
+- **Surplus funds → transferred to Foundation Reserve**
+
+Example logic:
+```yaml
+if commits > 5 or issues_closed > 3:
+    grant_weight += 1
+
+
+
+
+🧩 Linked Repositories
+
+
+
+
+Project
+Description
+Funding Priority
+
+
+
+
+r3c
+Core compiler & transpiler
+⭐⭐⭐⭐
+
+
+rust-ltss
+Rust LTSS support
+⭐⭐⭐
+
+
+llvm-zero-ecosystem
+Research & documentation
+⭐⭐
+
+
+cpppm
+Package & dependency manager
+⭐⭐
+
+
+
+
+
+⚖️ Governance & Transparency
+
+
+
+
+Monthly financial summary committed under /reports/funding/YYYY-MM.md
+
+
+All expenditures approved via pull requests
+
+
+No individual ownership; collective stewardship model
+
+
+
+
+
+🧾 License Notice
+
+
+This document follows the MIT License (same as foundation scope).
+
+It may be reused or extended for other open-source sustainability initiatives.
+
+
 
 ---
 
-**R3C Foundation — Sustainable. Transparent. Independent.**
