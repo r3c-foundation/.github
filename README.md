@@ -1,3 +1,22 @@
+---
+
+## 💖 Support R3C Foundation
+
+R3C Foundation is a non-profit open source collective building an LLVM-free, long-term sustainable compiler ecosystem.
+
+Your sponsorships help sustain the **R3C → Rust → ASM** toolchain research and keep the LTSS (Long-Term Sustain System) development moving forward.
+
+> 💡 *All sponsorships are currently held in pending (non-withdrawable) status during foundation setup, ensuring full legal compliance.*
+
+### 🌍 Sponsorship Channels
+- 🩵 [GitHub Sponsors (Pending Setup)](https://github.com/sponsors/0200134)
+- 🌐 [OpenCollective (R3C Foundation)](https://opencollective.com/r3c-foundation)
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/0200134)
+
+Every small contribution fuels open innovation and keeps R3C fully independent.
+
+---
+
 # 🏛️ R3C Foundation — Governance & Charter Repository
 
 This repository manages **governance, policy, and automation settings** for all projects under the **r3c-foundation** organization.
